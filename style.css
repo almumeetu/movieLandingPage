@@ -70,7 +70,6 @@ header{
     backdrop-filter: blur(3px);
 }
 
-
 .search input::placeholder{
     color: #ffffff;
 }
